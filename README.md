@@ -1,5 +1,5 @@
 ## PyTicTacToe
-Run gameClass.py to start the game<br/>
+Run **gameClass.py** to start the game<br/>
 ### Minimax AI
 Assumes that opponent also plays *optimally*<br/>
 **Unbeatable** as it chooses move by pruning the complete decision tree<br/>
